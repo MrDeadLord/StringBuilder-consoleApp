@@ -1,0 +1,7 @@
+E:\Creativity\Programs\C#\Testing\bin\Debug\Testing.exe.config
+E:\Creativity\Programs\C#\Testing\bin\Debug\Testing.exe
+E:\Creativity\Programs\C#\Testing\bin\Debug\Testing.pdb
+E:\Creativity\Programs\C#\Testing\obj\Debug\Testing.csprojAssemblyReference.cache
+E:\Creativity\Programs\C#\Testing\obj\Debug\Testing.csproj.CoreCompileInputs.cache
+E:\Creativity\Programs\C#\Testing\obj\Debug\Testing.exe
+E:\Creativity\Programs\C#\Testing\obj\Debug\Testing.pdb
